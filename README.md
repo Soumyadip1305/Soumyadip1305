@@ -1,16 +1,24 @@
-## Hi there 👋
+🚀 Who I Am
+I'm Soumyadip Saha, a final-year Information Technology student at JIS College of Engineering. I'm passionate about software development, with a strong foundation in both frontend and backend technologies. I'm eager to apply my skills in real-world scenarios and take on new challenges.
 
-<!--
-**Soumyadip1305/Soumyadip1305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠 Technical Proficiencies
 
-Here are some ideas to get you started:
+Programming Languages: Java, C, JavaScript
+Frontend Development: HTML, CSS
+Backend Development: Spring Boot, JPA, Redis
+Database Management: MySQL
+📚 Academic Milestones
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Leetcode: Knight (max rating 2095)
+Codeforces: Specialist (max rating 1561)
+Codechef: 4-star (max rating 1970)
+Solved over 2000 problems across various competitive programming platforms
+🔗 Connect with Me
+
+LinkedIn: soumyadip-saha-24goo
+Leetcode: @decoder2025
+Codeforces: @Soumya_v2
+📬 Get in Touch
+
+LinkedIn: Reach out to me on LinkedIn
+Email: Drop me a message here(soumyadip-saha-24goo)
