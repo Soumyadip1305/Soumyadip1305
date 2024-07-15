@@ -18,7 +18,7 @@ I'm Soumyadip Saha, a final-year Information Technology student at JIS College o
 
 ## 🔗 Connect with Me
 
-[![portfolio]](https://soumyadip1305.netlify.app/)
+[![portfolio](https://img.shields.io/badge/portfolio-87CEEB?style=for-the-badge&logo=portfolio&logoColor=white)](https://soumyadip1305.netlify.app/)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumyadip-saha-24goo)
 
