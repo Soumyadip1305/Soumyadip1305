@@ -18,7 +18,8 @@ I'm Soumyadip Saha, a final-year Information Technology student at JIS College o
 
 ## 🔗 Connect with Me
 
-[![portfolio](https://img.shields.io/badge/portfolio-00BFFF?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAn1BMVEUAAABVWVmgoKD////o6OhWVlbV1dXg4OBgYGBbW1uRkZG7u7u3t7ejp6d/f3+MjIxKSkqurq5xcXG1tbUpKSkzMzM7OzsoKCiCgoJDQ0OVlZUZGRkwMDBpaWkoKCgNDQ1KSkq4uLhDQ0M2NjYoKCg1NTV0dHSqqqqampqbm5vExMS/v78/Pz+3t7dHR0eSkpIAAAAY0lEQVR4nI3MBxKCMAyE4czN3dTdFe3Y///GbKJVkskP6RGbAbhYziDPnHg5HGVMTxkckbSSnHMgRkRMpQErQWY1YdQlW9UFUbbTkr0cWuP0d6/d50YJg93HZhQ3nYHafIpW0hbJzAIuF79pWgAAAABJRU5ErkJggg==&logoColor=white)](https://soumyadip1305.netlify.app/)
+[![portfolio](https://img.shields.io/badge/portfolio-87CEEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://soumyadip1305.netlify.app/)
+
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumyadip-saha-24goo)
 
