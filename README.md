@@ -21,7 +21,7 @@ I'm Soumyadip Saha, a final-year Information Technology student at JIS College o
 [![portfolio](https://soumyadip1305.netlify.app/)]()
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumyadip-saha-24goo)
 
-[![leetcode Rating of @decoder2025](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=decoder2025/&query=ratingQuantile&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fdecoder20252&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/decoder2025/)
+[![leetcode Rating of @decoder2025](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=decoder2025/&query=ratingQuantile&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fdecoder2025&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/decoder2025/)
 
 [![Codeforces Rating of @Soumya_v2](https://cfrating.baoshuo.dev/rating?username=Soumya_v2&style=for-the-badge)](https://codeforces.com/profile/Soumya_v2)
 
