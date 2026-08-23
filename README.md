@@ -120,28 +120,13 @@ Machine Learning classification project using **KNN**.
 <img src="https://img.shields.io/badge/Codeforces-Specialist-blue?style=for-the-badge&logo=codeforces&logoColor=white"/>
 
 </p>
-
-- 🧩 1800+ algorithmic problems solved
-- 📚 Strong foundation in Data Structures & Algorithms
-- 🔍 Regularly practice:
-  - Binary Search
-  - Binary Search on Answer
-  - Sliding Window
-  - Two Pointers
-  - Intervals
-  - Difference Array
-  - Dynamic Programming
-
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Soumyadip1305&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumyadip1305&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Soumyadip1305&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumyadip1305&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
@@ -149,11 +134,16 @@ Machine Learning classification project using **KNN**.
 ## 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Soumyadip1305&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=Soumyadip1305&theme=tokyonight&hide_border=true"/>
 </p>
 
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Soumyadip1305&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+</p>
 ---
 
 ## 🤝 Connect With Me
