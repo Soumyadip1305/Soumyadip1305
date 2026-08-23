@@ -7,7 +7,7 @@ I enjoy building practical solutions, solving challenging problems, and learning
 `PyTorch` · `Deep Learning` · `RAG` · `GenAI`
 
 ### 🧰 Toolbox
-`Java` · `Python` · `JavaScript` · `React` · `Node.js` · `MySQL` · `Git`
+`Java` · `Python` · `JavaScript` · `React` · `MySQL` · `Git`
 
 ### 🏆 Problem Solving
  **LeetCode 2077** · **CodeChef 4★** · **Codeforces Specialist**
