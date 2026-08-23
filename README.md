@@ -11,4 +11,4 @@ I like building things, solving problems, and learning by doing.
 `Java` · `Python` · `JavaScript` · `React` · `Node.js` · `MySQL` · `Git`
 
 ### 🏆 Problem Solving
-**1800+** problems solved · **LeetCode 2077** · **CodeChef 4★** · **Codeforces Specialist**
+ **LeetCode 2077** · **CodeChef 4★** · **Codeforces Specialist**
