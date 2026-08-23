@@ -2,10 +2,9 @@
 
 **Software Developer @ TCS** · **B.Tech IT** · **Problem Solver**
 
-I like building things, solving problems, and learning by doing.
-
+I enjoy building practical solutions, solving challenging problems, and learning something new along the way.
 ### ⚡ Currently Exploring
-`PyTorch` · `Transformers` · `RAG` · `GenAI`
+`PyTorch` · `Deep Learning` · `RAG` · `GenAI`
 
 ### 🧰 Toolbox
 `Java` · `Python` · `JavaScript` · `React` · `Node.js` · `MySQL` · `Git`
