@@ -11,14 +11,8 @@ I enjoy building practical projects, solving algorithmic problems, and continuou
 ## 🚀 About Me
 
 - 💻 Software Developer at **TCS**
-- 🎓 B.Tech in Information Technology
-- 🤖 Interested in **Machine Learning & Deep Learning**
 - 🧠 Passionate about **Data Structures & Algorithms**
 - 🐍 Working with **Python & PyTorch**
-- ☕ Experienced with **Java**
-- 🌐 Experience with **React.js, JavaScript & Node.js**
-- 🗄️ Working with **MySQL**
-- 🏆 1800+ algorithmic problems solved
 - ⭐ LeetCode Rating: **2077**
 - ⭐ CodeChef: **4★**
 - 🏅 Codeforces: **Specialist**
@@ -31,7 +25,6 @@ I enjoy building practical projects, solving algorithmic problems, and continuou
 - 🤗 Transformers & Large Language Models
 - 🔎 Retrieval-Augmented Generation (**RAG**) & Vector Databases
 - 🤖 Generative AI & Agentic AI
-- ☕ Spring Boot & Backend Development
 
 ---
 
